@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\devin\\Downloads\\Visual Studio projects\\Calculator (Project 9)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EF9200-0465-4AB1-809E-E44B18988F14}|Calculator (Project 9)\\Calculator (Project 9).csproj|c:\\users\\devin\\downloads\\visual studio projects\\calculator (project 9)\\calculator (project 9)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EF9200-0465-4AB1-809E-E44B18988F14}|Calculator (Project 9)\\Calculator (Project 9).csproj|solutionrelative:calculator (project 9)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EF9200-0465-4AB1-809E-E44B18988F14}|Calculator (Project 9)\\Calculator (Project 9).csproj|c:\\users\\devin\\downloads\\visual studio projects\\calculator (project 9)\\calculator (project 9)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9EF9200-0465-4AB1-809E-E44B18988F14}|Calculator (Project 9)\\Calculator (Project 9).csproj|solutionrelative:calculator (project 9)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\devin\\Downloads\\Visual Studio projects\\Calculator (Project 9)\\Calculator (Project 9)\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator (Project 9)\\Form1.cs",
+              "ToolTip": "C:\\Users\\devin\\Downloads\\Visual Studio projects\\Calculator (Project 9)\\Calculator (Project 9)\\Form1.cs",
+              "RelativeToolTip": "Calculator (Project 9)\\Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:56:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\devin\\Downloads\\Visual Studio projects\\Calculator (Project 9)\\Calculator (Project 9)\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator (Project 9)\\Form1.cs",
+              "ToolTip": "C:\\Users\\devin\\Downloads\\Visual Studio projects\\Calculator (Project 9)\\Calculator (Project 9)\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator (Project 9)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:11:31.674Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock__Project_11_.clock.resources
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\bin\Debug\net8.0-windows\DigitalClock (Project 11).exe
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\bin\Debug\net8.0-windows\DigitalClock (Project 11).deps.json
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\bin\Debug\net8.0-windows\DigitalClock (Project 11).runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\bin\Debug\net8.0-windows\DigitalClock (Project 11).dll
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\bin\Debug\net8.0-windows\DigitalClock (Project 11).pdb
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).dll
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\refint\DigitalClock (Project 11).dll
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).pdb
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\DigitalClock (Project 11).genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\DigitalClock (Project 11)\DigitalClock (Project 11)\obj\Debug\net8.0-windows\ref\DigitalClock (Project 11).dll

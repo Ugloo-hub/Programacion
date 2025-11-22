@@ -1,0 +1,16 @@
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\bin\Debug\net8.0-windows\digitaClock.exe
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\bin\Debug\net8.0-windows\digitaClock.deps.json
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\bin\Debug\net8.0-windows\digitaClock.runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\bin\Debug\net8.0-windows\digitaClock.dll
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\bin\Debug\net8.0-windows\digitaClock.pdb
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.Form1.resources
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.dll
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\refint\digitaClock.dll
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.pdb
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\digitaClock.genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\digitaClock\digitaClock\obj\Debug\net8.0-windows\ref\digitaClock.dll

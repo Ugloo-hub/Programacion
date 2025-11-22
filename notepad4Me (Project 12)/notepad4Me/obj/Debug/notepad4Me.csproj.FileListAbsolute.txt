@@ -1,0 +1,12 @@
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe.config
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.exe
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\bin\Debug\notepad4Me.pdb
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.AssemblyReference.cache
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.frmMain.resources
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.Properties.Resources.resources
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.exe
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.pdb
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.exe.config
+C:\Users\devin\Downloads\Visual Studio projects\notepad4Me\notepad4Me\obj\Debug\notepad4Me.frmFind.resources

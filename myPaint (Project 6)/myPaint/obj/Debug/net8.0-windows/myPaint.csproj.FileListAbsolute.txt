@@ -1,0 +1,17 @@
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\bin\Debug\net8.0-windows\myPaint.exe
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\bin\Debug\net8.0-windows\myPaint.deps.json
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\bin\Debug\net8.0-windows\myPaint.runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\bin\Debug\net8.0-windows\myPaint.dll
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\bin\Debug\net8.0-windows\myPaint.pdb
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.Form1.resources
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.Properties.Resources.resources
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.dll
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\refint\myPaint.dll
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.pdb
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\myPaint.genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\myPaint\myPaint\obj\Debug\net8.0-windows\ref\myPaint.dll

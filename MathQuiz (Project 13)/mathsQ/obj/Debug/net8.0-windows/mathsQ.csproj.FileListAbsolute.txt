@@ -1,0 +1,16 @@
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\bin\Debug\net8.0-windows\mathsQ.exe
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\bin\Debug\net8.0-windows\mathsQ.deps.json
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\bin\Debug\net8.0-windows\mathsQ.runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\bin\Debug\net8.0-windows\mathsQ.dll
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\bin\Debug\net8.0-windows\mathsQ.pdb
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.Form1.resources
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.dll
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\refint\mathsQ.dll
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.pdb
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\mathsQ.genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\mathsQ\mathsQ\obj\Debug\net8.0-windows\ref\mathsQ.dll

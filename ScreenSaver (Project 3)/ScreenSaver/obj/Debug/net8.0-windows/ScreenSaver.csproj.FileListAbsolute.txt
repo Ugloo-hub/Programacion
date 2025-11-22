@@ -1,0 +1,16 @@
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\bin\Debug\net8.0-windows\ScreenSaver.exe
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\bin\Debug\net8.0-windows\ScreenSaver.deps.json
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\bin\Debug\net8.0-windows\ScreenSaver.runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\bin\Debug\net8.0-windows\ScreenSaver.dll
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\bin\Debug\net8.0-windows\ScreenSaver.pdb
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.frmScSaver.resources
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.dll
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\refint\ScreenSaver.dll
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.pdb
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ScreenSaver.genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\ScreenSaver\ScreenSaver\obj\Debug\net8.0-windows\ref\ScreenSaver.dll

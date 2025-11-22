@@ -1,0 +1,10 @@
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\bin\Debug\ImageUploads1.exe.config
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\bin\Debug\ImageUploads1.exe
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\bin\Debug\ImageUploads1.pdb
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.csproj.AssemblyReference.cache
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.Form1.resources
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.Properties.Resources.resources
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.csproj.GenerateResource.cache
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.csproj.CoreCompileInputs.cache
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.exe
+C:\Users\LixElectronics\source\repos\ImageUploads1\ImageUploads1\obj\Debug\ImageUploads1.pdb

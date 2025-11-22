@@ -1,0 +1,11 @@
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmLogin.resources
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmLoggedIn.resources
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\LixElectronics\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb

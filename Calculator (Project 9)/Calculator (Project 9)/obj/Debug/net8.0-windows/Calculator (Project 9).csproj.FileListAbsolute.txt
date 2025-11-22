@@ -1,0 +1,16 @@
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\bin\Debug\net8.0-windows\Calculator (Project 9).exe
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\bin\Debug\net8.0-windows\Calculator (Project 9).deps.json
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\bin\Debug\net8.0-windows\Calculator (Project 9).runtimeconfig.json
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\bin\Debug\net8.0-windows\Calculator (Project 9).dll
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\bin\Debug\net8.0-windows\Calculator (Project 9).pdb
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator__Project_9_.Form1.resources
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).csproj.GenerateResource.cache
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).AssemblyInfoInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).AssemblyInfo.cs
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).csproj.CoreCompileInputs.cache
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).dll
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\refint\Calculator (Project 9).dll
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).pdb
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\Calculator (Project 9).genruntimeconfig.cache
+C:\Users\devin\Downloads\Visual Studio projects\Calculator (Project 9)\Calculator (Project 9)\obj\Debug\net8.0-windows\ref\Calculator (Project 9).dll
